@@ -1,6 +1,8 @@
-# airline-satisfaction
+# Airline Passenger Satisfaction
 
 __Dataset Source:__ https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
+This dataset was originally used in one of my data analysis course projects, and I will now apply my data analysis skills to analyze the data and make predictions using different methods available in the sklearn library.
 
 __Purpose:__
 
